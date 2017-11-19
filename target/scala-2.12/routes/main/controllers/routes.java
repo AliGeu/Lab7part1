@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/home/wdd/webapps/play/play-java-seed/conf/routes
-// @DATE:Fri Nov 17 16:02:51 GMT 2017
+// @DATE:Sun Nov 19 10:18:59 GMT 2017
 
 package controllers;
 
