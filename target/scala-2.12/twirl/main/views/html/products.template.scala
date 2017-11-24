@@ -47,7 +47,7 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
     </div>
     <!-- List containing nav links -->
     <ul class="nav navbar-nav">
-      <li><a href="/">Home</a></li>
+      <li><a href="/index">Home</a></li>
       <li><a href="/about">About Us</a></li>
       <li class="active"><a href="/">Products</a></li>
     </ul>
@@ -89,9 +89,9 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 
               /*
                   -- GENERATED --
-                  DATE: Sat Nov 18 13:14:27 GMT 2017
+                  DATE: Sun Nov 19 11:39:59 GMT 2017
                   SOURCE: /home/wdd/webapps/play/play-java-seed/app/views/products.scala.html
-                  HASH: 85fa025e49cb2b718879bf14e3897dc60d34a317
+                  HASH: 2539cb34b2cf0d8bb012e609844a3e1f1d6cecd9
                   MATRIX: 1033->0
                   LINES: 33->1
                   -- GENERATED --
